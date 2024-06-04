@@ -1,6 +1,3 @@
-### README.md
-
-```markdown
 # RFV Segmentação de Clientes
 
 RFV significa recência, frequência, valor e é utilizado para segmentação de clientes baseado no comportamento de compras dos clientes e agrupa eles em clusters parecidos. Utilizando esse tipo de agrupamento podemos realizar ações de marketing e CRM melhores direcionadas, ajudando assim na personalização do conteúdo e até a retenção de clientes.
@@ -52,16 +49,23 @@ streamlit run app.py
 Você verá a aplicação rodando em `http://localhost:8501`.
 
 ## Contribuição
-1. Faça um fork do projeto.
-2. Crie uma nova branch (`git checkout -b feature/MinhaNovaFeature`).
-3. Faça commit das suas mudanças (`git commit -am 'Adicionei uma nova feature'`).
-4. Faça push para a branch (`git push origin feature/MinhaNovaFeature`).
-5. Abra um Pull Request.
+
+Faça um fork do projeto.
+
+Crie uma nova branch (`git checkout -b feature/MinhaNovaFeature`).
+
+Faça commit das suas mudanças (`git commit -am 'Adicionei uma nova feature'`).
+
+Faça push para a branch (`git push origin feature/MinhaNovaFeature`).
+
+Abra um Pull Request.
 
 ## Créditos
-- [Seu Nome](https://github.com/usuario) - Desenvolvedor Principal.
+
+Seu Nome - Desenvolvedor Principal.
 
 ## Licença
+
 Distribuído sob a licença MIT. Veja `LICENSE` para mais informações.
 
 ## Link para Acesso
