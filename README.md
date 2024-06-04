@@ -63,6 +63,7 @@ Abra um Pull Request.
 ## Créditos
 
 Lucas Serra - Professor orientador
+
 Renato Douglas - Desenvolvedor Principal.
 
 ## Licença
