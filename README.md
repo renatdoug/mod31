@@ -2,7 +2,7 @@
 
 RFV significa recência, frequência, valor e é utilizado para segmentação de clientes baseado no comportamento de compras dos clientes e agrupa eles em clusters parecidos. Utilizando esse tipo de agrupamento podemos realizar ações de marketing e CRM melhores direcionadas, ajudando assim na personalização do conteúdo e até a retenção de clientes.
 
-![RFV](https://img.shields.io/badge/Recência-Frequência-Valor-blue)
+![RFV](https://gestaomax.com.br/wp-content/uploads/o-que-e-rfv_p2.jpg)
 
 ## Índice
 1. [Descrição](#descrição)
