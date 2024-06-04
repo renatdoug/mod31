@@ -62,7 +62,8 @@ Abra um Pull Request.
 
 ## Créditos
 
-Seu Nome - Desenvolvedor Principal.
+Lucas Serra - Professor orientador
+Renato Douglas - Desenvolvedor Principal.
 
 ## Licença
 
@@ -70,5 +71,5 @@ Distribuído sob a licença MIT. Veja `LICENSE` para mais informações.
 
 ## Link para Acesso
 
-Você pode acessar a aplicação online [aqui](https://apprfv-9li9.onrender.com).
+Você pode acessar a aplicação online [aqui](https://apprfv.onrender.com/).
 ```
